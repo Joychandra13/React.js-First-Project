@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    font-size: 16px;
+    font-weight: 600;
+    color: #0D0A19 !important;
+    line-height: 24px;
+}
+
+.bi-person-fill{
+    color: #9A9EA7;
+    background-color: #f5f6f7;
+    padding: 5px;
+    border-radius: 7px;
+}
+
+.NavbarButton span{
+    color: #9A9EA7;
+    line-height: 21px;
+    font-weight: 600;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.Carouselp {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #9A9EA7;
+}
+
+.Carouselh1 {
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 48px;
+    color: #0D0A19;
+}
+
+.Carouselbutton1{
+    font-size: 14px !important;
+    line-height: 21px !important;
+    font-weight: 700 !important;
+    padding: 8px 20px 8px 20px !important;
+}
+
+.Carouselbutton2{
+    font-size: 14px !important;
+    line-height: 21px !important;
+    font-weight: 700 !important;
+    background-color: #7963F0 !important;
+    padding: 8px 20px 8px 20px !important;
+    margin-left: 20px !important;
+}
+
+.Heroimg{
+    padding-top: 90px;
+}
+
+.Herodiv{
+    padding-top: 90px;
+}
+
+
+/* filter-search-Section */
+
+.filter-search-title{
+    line-height: 36px !important;
+    font-size: 28px !important ;
+    font-weight: 700 !important;
+    padding: 70px 0px 40px 0px  !important;
+}
+
+.vertical-line {
+    height: 32px !important;
+    width: 1px !important;
+    background-color: #ede8e9 !important;
+}
+
+.filter-search-laber {
+    color: #9A9EA7 !important;
+    line-height: 18px !important;
+}
+
+.filter-search-select{
+    width: 120px !important;
+    border: none !important;
+    line-height: 20px !important;
+}
+
+.search-button {
+    background-color: #7963F0 !important;
+    width: 120px !important;
+    height: 46px !important;
+    border-radius: 10px !important;
+}
+
+.filter-search-box {
+    width: 100% !important;
+    max-width: 945px !important;
+    padding: 18px !important;
+    margin: 0 auto !important; 
+    border-radius: 8px !important;
+    box-shadow: 0px 3px 4px 0px #999BA826 !important;
+}
+
+.primarybtn{
+    background-color: #7963F0 !important;
+    border: none !important;
+}
+
+.Bestsellerbtn{
+    background-color: #F5F6F7 !important;
+    color: #9A9EA7 !important;
+    border: none !important;
+}
+
+
+
+.vw-ad {
+    align-items: center !important;
+    padding: 20px !important;
+  }
+  .vw-logo {
+    width: 50px !important;
+    height: 50px !important;
+    margin-right: 15px !important;
+  }
+  .vw-text {
+    font-size: 1.5rem !important;
+    font-weight: bold !important;
+  }
+  .vw-price {
+    font-size: 1rem !important;
+    color: #6c757d !important;
+  }
+
+  footer p {
+    margin: 0;
+  }
